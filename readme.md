@@ -1,4 +1,4 @@
-
+Not finished yet......
 
 ### RabbitMQ
 it accepts, stores, and forwards binary blobs of data ‒ messages.A message buffer that RabbitMQ keeps on behalf of the consumer.
